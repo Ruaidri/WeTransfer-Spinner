@@ -7,3 +7,5 @@ The Speed of the circle can be easily edited, as can the size, colour and radius
 The code has a runtime of ~2ms.
 
 Further adaptation for this progress spinner can be to have the bar length (stroke-dasharray) increase in accordance with the progress percentage.
+
+This app can be viewed on https://we-transfer-spinner.vercel.app/
